@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="attendance">Attendance</string>
+    <string name="notes">Notes</string>
+    <string name="fess_register">Fess Register</string>
+    <string name="support">Support</string>
+    <string name="about">About</string>
+    <string name="ashish_kumar">Ashish Kumar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_welcome_nyour_home_fragement">Your Welcome!\nYour Home Fragement</string>
+    <string name="your_welcome_n_your_about_fragement">Your Welcome\n Your About Fragement</string>
+    <string name="your_welcome_n_your_attendance_fragement">Your Welcome!\n Your Attendance Fragement</string>
+    <string name="your_welcome_n_your_fees_fragement">Your Welcome!\n Your Fees Fragement</string>
+    <string name="your_welcome_n_your_news_fragement">Your Welcome!\n Your News Fragement</string>
+    <string name="your_welcome_n_your_notes_fragement">Your Welcome!\n Your Notes Fragement</string>
+    <string name="your_welcome_n_your_support_fragement">Your Welcome!\n Your Support Fragement</string>
+</resources>
